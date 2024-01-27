@@ -1,7 +1,7 @@
 # Sorting Algorithms & Big O notantion  
 This part of **ALX SE** program. Done by **Ahmed Issa**  
 In this project, I implemented several different sorting algorithms using C programming language  
-
+***
 # Tasks  
 ### Mandetory  
 - 0-bubble_sort.c   
