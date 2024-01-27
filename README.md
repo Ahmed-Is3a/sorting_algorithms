@@ -14,5 +14,8 @@ In this project, I implemented several different sorting algorithms using C prog
 - 102-counting_sort.c  
 ---
 ## Files
-sort.h - header file contain function data structures and prototypes   
-all num-o files contain big-O notation for the function   
+- sort.h - header file contain function data structures and prototypes   
+- all num-o files contain big-O notation of the time complexity with 1 notation per line:
+	in the best case
+	in the average case
+	in the worst case
